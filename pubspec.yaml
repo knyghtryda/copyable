@@ -1,21 +1,21 @@
 name: copyable
 description: A Flutter package for giving and standardizing copy functionality to Dart classes.
-version: 0.0.1+1
+version: 0.0.2
 author: Juan Diego Fajardo <jfajardo@mit.edu>
 homepage: https://github.com/kuanfajardo/copier.git
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.6.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  meta: ^1.1.6
+  meta: ^1.1.8
   # Generator
-  analyzer: ^0.36.3
-  build: ^1.1.4
-  source_gen: ^0.9.4
-  code_builder: ^3.2.0
+  analyzer: ^0.39.0
+  build: ^1.3.0
+  source_gen: ^0.9.5
+  code_builder: ^3.3.0
 
 dev_dependencies:
   flutter_test:
